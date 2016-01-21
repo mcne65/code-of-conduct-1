@@ -36,4 +36,8 @@ Current available translations (in alphabetical order):
 
 ## Contributing
 
+<<<<<<< HEAD
 If you'd like to contribute to the Code of Conduct, you can do so in the original repo, [here](https://github.com/confcodeofconduct/confcodeofconduct.com). Or raise an issue here if you have any issues specific to the Node Girls community.
+=======
+If you'd like to contribute to the Code of Conduct, you can do so in the original repo, [here](https://github.com/confcodeofconduct/confcodeofconduct.com). Or raise an issue here if you have anything to add that is specific to Node Girls.
+>>>>>>> (another) minor wording update
