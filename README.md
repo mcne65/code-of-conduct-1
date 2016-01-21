@@ -2,7 +2,7 @@
 
 This is the Node Girls Code of Conduct, forked from the original [Conf Code of Conduct](http://confcodeofconduct.com/). We'll be enforcing this Code of Conduct at all Node Girls events, as well as in our online community.
 
-If you would like to let us know about any violations of the Code of Conduct, please get in touch with us via nodegirlslondon@gmail.com, or get in touch with one of the chapter organisers.
+If you would like to let us know about any violations of the Code of Conduct, please get in touch with us via nodegirlslondon@gmail.com, or speak to one of the chapter organisers.
 
 ## Translations
 
