@@ -1,14 +1,13 @@
-confcodeofconduct.com
-=====================
+# Code of confcodeofconduct
 
-Translations
-------------
+This is the Node Girls Code of Conduct, forked from the original [Conf Code of Conduct](http://confcodeofconduct.com/). We'll be enforcing this Code of Conduct at all Node Girls events, as well as in our online community.
 
-If you would like to contribute a translation to this project, please include a translated file that includes the language short code in the filename as this will be mapped to from the url. For example, `fr.confcodeofconduct.com` will load the `index-fr.html` file.
+If you need to speak to us about a violation of the Code of Conduct, you can contact us in a number of ways:
+* Email nodegirlslondon@gmail.com
+* DM @nodegirlslondon on Twitter
+* DM one of the organisers on Twitter: @msmichellegar, @claireinez, @minaorangina
 
-Fork this project, send a pull request and the translation will go live (though the translation may be validated before publishing).
-
-Please check the [issues](https://github.com/leftlogic/confcodeofconduct.com/issues) to see if anyone else is currently working on a translation.
+## Translations
 
 Current available translations (in alphabetical order):
 
@@ -31,18 +30,6 @@ Current available translations (in alphabetical order):
 * Swedish [http://sv.confcodeofconduct.com/](http://sv.confcodeofconduct.com/)
 * Turkish [http://tr.confcodeofconduct.com/](http://tr.confcodeofconduct.com/)
 
+## Contributing
 
-Background
-----------
-
-I've put this project under Left Logic to try to disown it from an individual. Actually, what I'd like is some kind of community organisation that projects like this can move to (perhaps also moving [mit-license.org](https://github.com/remy/mit-license) to it - but one step at a time eh?).
-
-This simple site offers up the code of conduct that (I believe) Tiffany Conroy first wrote up for jsconf.eu 2012. I reused the same content (removing the jsconf.eu specific parts) for Full Frontal 2012.
-
-I'd like to continue using this as a simple go to reference for code of conduct for events I run - and equally events you run.
-
-This is *not* owned by me - this is a public resource - so if there's changes, please create a pull request, and if it makes sense, it'll be merged.
-
-On that note - I'd rather not be the only person with merge permissions, so I hope that by the time you read this, I'm not the only person with those rights.
-
-&mdash; Remy / @rem
+If you'd like to contribute to the Code of Conduct, you can do so in the original repo, [here](https://github.com/confcodeofconduct/confcodeofconduct.com). Or raise an issue here if you have any issues specific to the Node Girls community.
