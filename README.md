@@ -2,16 +2,12 @@
 
 This is the Node Girls Code of Conduct, forked from the original [Conf Code of Conduct](http://confcodeofconduct.com/). We'll be enforcing this Code of Conduct at all Node Girls events, as well as in our online community.
 
-<<<<<<< HEAD
+English version is available [here](http://confcodeofconduct.com). See translations below.
+
 If you need to speak to us about a violation of the Code of Conduct, you can contact us in a number of ways:
 * Email nodegirlslondon@gmail.com
 * DM @nodegirlslondon on Twitter
 * DM one of the organisers on Twitter: @msmichellegar, @claireinez, @minaorangina
-=======
-If you would like to let us know about any violations of the Code of Conduct, please get in touch with us via nodegirlslondon@gmail.com, or speak to one of the chapter organisers.
->>>>>>> minor wording change
-
-English version is available [here](http://confcodeofconduct.com). See translations below.
 
 ## Translations
 
@@ -55,7 +51,11 @@ Current available translations (in alphabetical order):
 ## Contributing
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 If you'd like to contribute to the Code of Conduct, you can do so in the original repo, [here](https://github.com/confcodeofconduct/confcodeofconduct.com). Or raise an issue here if you have any issues specific to the Node Girls community.
 =======
 If you'd like to contribute to the Code of Conduct, you can do so in the original repo, [here](https://github.com/confcodeofconduct/confcodeofconduct.com). Or raise an issue here if you have anything to add that is specific to Node Girls.
 >>>>>>> (another) minor wording update
+=======
+If you'd like to contribute to the Code of Conduct, you can do so in the original repo, [here](https://github.com/confcodeofconduct/confcodeofconduct.com). Or raise an issue here if you have anything to add that is specific to Node Girls.
+>>>>>>> 658622fca615da9722cff3f1977a5824df204587
